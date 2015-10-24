@@ -19,6 +19,6 @@ is. What we hope to achieve in the future is to:
 * Have a preferrably realtime website/repository which indexes
   scores associated with each parsimonious image. (A cheap solution
   would be a gallery on imgur: we just calculate ``upvotes/total_votes``).
-* Have an equally parsimonious renderer and an easy-to-edit format
-  to store our image vectors with. Preferrably some sort of JSON
-  to SVG script.
+* Have an equally parsimonious renderer and an easy-to-edit, yet
+  minimal format to store our image vectors with. Preferrably
+  some sort of JSON to SVG converter.
